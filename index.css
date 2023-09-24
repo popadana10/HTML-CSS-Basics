@@ -1,0 +1,62 @@
+h1 {
+  color: coral;
+  background-color: beige;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 40px;
+  font-weight: 300;
+  text-transform: uppercase;
+  margin: 0 50px 0 50px;
+  padding: 0;
+}
+
+h2 {
+  color: burlywood;
+  text-align: left;
+  font-family: serif;
+  border: 1px solid red;
+  padding-left: 20px;
+  margin-right: 90%;
+}
+
+h3 {
+  color: darkgreen;
+  text-align: left;
+  font-family: serif;
+  border: 1px solid red;
+  padding-left: 20px;
+  margin-right: 90%;
+}
+
+.list1 {
+  color: darkgreen;
+  font-size: 20px;
+  font-weight: 300;
+  text-align: left;
+  padding-left: 20px;
+}
+
+.list2 {
+  color: blue;
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+body {
+  background-color: olive;
+}
+
+blockquote {
+  font-style: italic;
+}
+
+img {
+  border: 10px solid red;
+  margin: 20px;
+  height: 700px;
+  width: 500px;
+}
+
+.head {
+  min-height: 90vh;
+}
